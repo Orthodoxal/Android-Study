@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="Stopwatch with Productivity Timer/task/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.327" />
+        <entry key="Stopwatch with Productivity Timer/task/src/main/res/drawable/ic_launcher_background.xml" value="0.327" />
+        <entry key="Stopwatch with Productivity Timer/task/src/main/res/layout/activity_main.xml" value="0.175" />
+        <entry key="Stopwatch with Productivity Timer/task/src/main/res/layout/alert_dialog.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>

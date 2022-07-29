@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.SettingsDialogFragmentTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-07-29T11:13:03" hostname="MacBook-Pro-Dmitrii.local" time="11.05">
+  <properties/>
+  <testcase name="testShouldCheckColorsOnRestart" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.698"/>
+  <testcase name="testShouldCheckSettingsButtonEnable" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.366"/>
+  <testcase name="testShouldCheckLimitIsSetOnOk" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.409"/>
+  <testcase name="testShouldCheckLimitIsNotSetOnCancel" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="3.402"/>
+  <testcase name="testShouldCheckSettingsButtonExist" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.042"/>
+  <testcase name="testDialogButtonsShouldContainText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.054"/>
+  <testcase name="testShouldCheckSettingsButtonText" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.034"/>
+  <testcase name="testShouldShowAlertDialogOnSettingsButtonClick" classname="org.hyperskill.stopwatch.SettingsDialogFragmentTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ProgressBarUnitTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-07-29T11:12:56" hostname="MacBook-Pro-Dmitrii.local" time="7.347">
+  <properties/>
+  <testcase name="testShouldCheckProgressBarColorEachSecond" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="5.686"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnInit" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.055"/>
+  <testcase name="testShouldCheckProgressBarVisibilityOnStart" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.041"/>
+  <testcase name="testShouldCheckMultipleClicks" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="1.472"/>
+  <testcase name="testShouldCheckProgressBarExists" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.057"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnReset" classname="org.hyperskill.stopwatch.ProgressBarUnitTests" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

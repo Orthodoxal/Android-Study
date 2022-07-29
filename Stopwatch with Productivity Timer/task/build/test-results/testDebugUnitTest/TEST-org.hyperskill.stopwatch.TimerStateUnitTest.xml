@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.TimerStateUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-07-29T11:13:14" hostname="MacBook-Pro-Dmitrii.local" time="6.824">
+  <properties/>
+  <testcase name="testShouldStopTimerAndResetCountOnResetButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.365"/>
+  <testcase name="testShouldCheckTimerInitialValue" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.059"/>
+  <testcase name="testShouldCountOneSecondAfterOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.154"/>
+  <testcase name="testShouldContinueCountOnPressingStartButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="2.267"/>
+  <testcase name="testShouldTakeOneSecondToCountOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.386"/>
+  <testcase name="testShouldIgnorePressingResetButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.592"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

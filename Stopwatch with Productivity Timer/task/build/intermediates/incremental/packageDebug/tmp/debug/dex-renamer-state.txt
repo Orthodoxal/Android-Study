@@ -1,0 +1,4 @@
+#Fri Jul 29 15:12:47 SAMT 2022
+base.0=/Users/dmitriiilbekov/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
